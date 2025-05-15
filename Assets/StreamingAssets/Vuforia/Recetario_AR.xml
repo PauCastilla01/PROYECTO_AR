@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="snack" size="1.000000 1.000000" />
+    <ImageTarget name="cena" size="1.000000 1.000000" />
+    <ImageTarget name="comida" size="1.000000 1.000000" />
+    <ImageTarget name="postre" size="1.000000 1.000000" />
+    <ImageTarget name="desayuno2" size="1.000000 0.998641" />
+  </Tracking>
+</QCARConfig>
