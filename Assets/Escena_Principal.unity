@@ -1319,6 +1319,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Tomate
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 9cb74564e36f84e04a2c88350bf8ed09,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -1327,6 +1332,12 @@ PrefabInstance:
 --- !u!4 &114678532 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 9cb74564e36f84e04a2c88350bf8ed09,
+    type: 3}
+  m_PrefabInstance: {fileID: 114678531}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &114678533 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 9cb74564e36f84e04a2c88350bf8ed09,
     type: 3}
   m_PrefabInstance: {fileID: 114678531}
   m_PrefabAsset: {fileID: 0}
@@ -1673,7 +1684,7 @@ GameObject:
   - component: {fileID: 134167188}
   - component: {fileID: 134167187}
   m_Layer: 5
-  m_Name: Paso 2
+  m_Name: Paso 2_C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -2164,6 +2175,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 158256633}
   m_CullTransparentMesh: 1
+--- !u!1 &159372863 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 653a672301f91478598a9ad83db77e6b,
+    type: 3}
+  m_PrefabInstance: {fileID: 376013374}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &159372864 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: 653a672301f91478598a9ad83db77e6b,
@@ -2465,7 +2482,7 @@ GameObject:
   - component: {fileID: 215374390}
   - component: {fileID: 215374389}
   m_Layer: 5
-  m_Name: Paso 1
+  m_Name: Paso 1_C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -5463,7 +5480,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 5375ecc1f26ec4f968b15043ad3b401f,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -5642,6 +5659,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 456733758}
   m_CullTransparentMesh: 1
+--- !u!1 &469301684 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e25d2ebd138c84435b05c53d18fc8fd3,
+    type: 3}
+  m_PrefabInstance: {fileID: 996388178}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &486896256
 GameObject:
   m_ObjectHideFlags: 0
@@ -10839,7 +10862,7 @@ PrefabInstance:
     - target: {fileID: 919132149155446097, guid: 3708d83eb71af49eda3f3c94d2870ea2,
         type: 3}
       propertyPath: m_IsActive
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13016,7 +13039,7 @@ GameObject:
   - component: {fileID: 990796770}
   - component: {fileID: 990796769}
   m_Layer: 5
-  m_Name: Paso 3
+  m_Name: Paso 3_C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -13205,6 +13228,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0.372
+      objectReference: {fileID: 0}
+    - target: {fileID: 6297631821460201394, guid: e25d2ebd138c84435b05c53d18fc8fd3,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 1
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -13410,6 +13438,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: Marul
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: bd8156d02f20c4de6b4fa0f3e2154d4c,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 1574533470958946397, guid: bd8156d02f20c4de6b4fa0f3e2154d4c,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -13423,6 +13456,12 @@ PrefabInstance:
 --- !u!4 &999167365 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: bd8156d02f20c4de6b4fa0f3e2154d4c,
+    type: 3}
+  m_PrefabInstance: {fileID: 999167364}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &999167366 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: bd8156d02f20c4de6b4fa0f3e2154d4c,
     type: 3}
   m_PrefabInstance: {fileID: 999167364}
   m_PrefabAsset: {fileID: 0}
@@ -13504,6 +13543,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: meat (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: ab6e12e3d309d4ba889b39b1e8eda6db,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2063149509332707197, guid: ab6e12e3d309d4ba889b39b1e8eda6db,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -13564,7 +13608,7 @@ Animator:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 999860596}
-  m_Enabled: 1
+  m_Enabled: 0
   m_Avatar: {fileID: 0}
   m_Controller: {fileID: 9100000, guid: 33ed352114c904bb4bd447c4e4b56294, type: 2}
   m_CullingMode: 0
@@ -14081,6 +14125,12 @@ PrefabInstance:
 --- !u!4 &1036194030 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: e25d2ebd138c84435b05c53d18fc8fd3,
+    type: 3}
+  m_PrefabInstance: {fileID: 1036194029}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1036194031 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: e25d2ebd138c84435b05c53d18fc8fd3,
     type: 3}
   m_PrefabInstance: {fileID: 1036194029}
   m_PrefabAsset: {fileID: 0}
@@ -20197,12 +20247,12 @@ GameObject:
   - component: {fileID: 1553158326}
   - component: {fileID: 1553158325}
   m_Layer: 5
-  m_Name: Ingredientes
+  m_Name: Ingredientes_C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!224 &1553158324
 RectTransform:
   m_ObjectHideFlags: 0
@@ -21342,6 +21392,12 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1641697304}
   m_CullTransparentMesh: 1
+--- !u!1 &1648401906 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: b1ef2ab40b1e84ff0a5db69abadeb530,
+    type: 3}
+  m_PrefabInstance: {fileID: 2042434193}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &1648401907 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: -8679921383154817045, guid: b1ef2ab40b1e84ff0a5db69abadeb530,
@@ -23978,6 +24034,7 @@ GameObject:
   - component: {fileID: 1857589630}
   - component: {fileID: 1857589629}
   - component: {fileID: 1857589632}
+  - component: {fileID: 1857589633}
   m_Layer: 0
   m_Name: Comida
   m_TagString: Untagged
@@ -24055,7 +24112,7 @@ MonoBehaviour:
   mMotionHint: 1
   mTrackingOptimization: 0
   mTrackingOptimizationNeedsUpgrade: 0
-  mPreview: {fileID: 1857589632}
+  mPreview: {fileID: 1857589633}
 --- !u!4 &1857589631
 Transform:
   m_ObjectHideFlags: 0
@@ -24074,9 +24131,9 @@ Transform:
   - {fileID: 1648401907}
   - {fileID: 647475751}
   - {fileID: 1918863335}
-  - {fileID: 1036194030}
   - {fileID: 770361025}
   - {fileID: 1086872208}
+  - {fileID: 1036194030}
   - {fileID: 846367647}
   - {fileID: 450315781}
   - {fileID: 999860595}
@@ -24085,6 +24142,52 @@ Transform:
   m_Father: {fileID: 1810547071}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1857589632
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1857589627}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a048c6cd674b14ef8ad226e4668d3799, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panels:
+  - {fileID: 1553158323}
+  - {fileID: 215374387}
+  - {fileID: 134167185}
+  - {fileID: 990796767}
+  - {fileID: 2094104220}
+  modelosPanel1:
+  - {fileID: 114678533}
+  - {fileID: 999167366}
+  - {fileID: 999860596}
+  - {fileID: 450315782}
+  - {fileID: 846367648}
+  modelosPanel2:
+  - {fileID: 1036194031}
+  modelosPanel3:
+  - {fileID: 469301684}
+  - {fileID: 770361024}
+  - {fileID: 1086872207}
+  modelosPanel4:
+  - {fileID: 1648401906}
+  - {fileID: 647475750}
+  modelosPanel5:
+  - {fileID: 159372863}
+  btnSiguiente:
+  - {fileID: 1032142757}
+  - {fileID: 136296466}
+  - {fileID: 1590396172}
+  - {fileID: 1827376221}
+  btnAnterior:
+  - {fileID: 885367604}
+  - {fileID: 1001745592}
+  - {fileID: 1695574826}
+  - {fileID: 1830637335}
+  btnReiniciar: {fileID: 712988602}
+--- !u!114 &1857589633
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -26836,7 +26939,7 @@ GameObject:
   - component: {fileID: 2094104223}
   - component: {fileID: 2094104222}
   m_Layer: 5
-  m_Name: Paso 4
+  m_Name: Paso 4_C
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
