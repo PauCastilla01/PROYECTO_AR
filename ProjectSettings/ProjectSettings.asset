@@ -65,7 +65,7 @@ PlayerSettings:
   allowedAutorotateToLandscapeLeft: 1
   useOSAutorotation: 1
   use32BitDisplayBuffer: 1
-  preserveFramebufferAlpha: 0
+  preserveFramebufferAlpha: 1
   disableDepthAndStencilBuffers: 0
   androidStartInFullscreen: 1
   androidRenderOutsideSafeArea: 1
@@ -166,7 +166,7 @@ PlayerSettings:
     Android: com.vuforia.engine.VuforiaEngine
     Lumin: com.PTCInc.VuforiaEngine
     Standalone: com.PTCInc.VuforiaEngine
-    iPhone: com.vuforia.engine.VuforiaEngine
+    iPhone: ProyectoF
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -1053,7 +1053,7 @@ PlayerSettings:
   hmiLogStartupTiming: 0
   hmiCpuConfiguration: 
   apiCompatibilityLevel: 3
-  activeInputHandler: 1
+  activeInputHandler: 2
   windowsGamepadBackendHint: 0
   cloudProjectId: ef5efb2c-e4d1-409b-a1ff-006314fa5310
   framebufferDepthMemorylessMode: 0

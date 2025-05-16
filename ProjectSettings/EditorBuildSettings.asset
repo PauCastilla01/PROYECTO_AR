@@ -8,4 +8,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Escena_Principal.unity
     guid: 3503eb23b8aa54d81b1086ae153ceff3
-  m_configObjects: {}
+  m_configObjects:
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 02299703d068a4eb0b46418aa76b0706,
+      type: 2}
