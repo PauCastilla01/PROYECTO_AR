@@ -7680,7 +7680,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Paso 3. Vertemos en el bowl.
+  m_text: Paso 3. Vertemos en el bow las verdurasl.
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7e120600993d6488f937a004d9b40c72, type: 2}
   m_sharedMaterial: {fileID: -2014572760147837255, guid: 7e120600993d6488f937a004d9b40c72,
