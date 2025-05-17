@@ -1,0 +1,99 @@
+newmtl salad_plate_for_restaurent_ar:mat0
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Sosa_02_baseColor.jpg
+bump  -bm 0 Sosa_02_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 880.00
+newmtl salad_plate_for_restaurent_ar:mat2
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Sosa_MT_01_baseColor.png
+bump  -bm 0 Sosa_MT_01_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 880.00
+newmtl salad_plate_for_restaurent_ar:mat4
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Radish_01_baseColor.png
+bump  -bm 0 Radish_01_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 880.00
+newmtl salad_plate_for_restaurent_ar:mat6
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tomato_01_baseColor.jpg
+bump  -bm 0 Tomato_01_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 880.00
+newmtl salad_plate_for_restaurent_ar:mat8
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Tomato_02_baseColor.jpg
+bump  -bm 0 Tomato_02_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 880.00
+newmtl salad_plate_for_restaurent_ar:mat10
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Onion_tx_02_baseColor.png
+bump  -bm 0 Onion_tx_02_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 800.00
+newmtl salad_plate_for_restaurent_ar:mat12
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Onion_Cut_01_baseColor.jpg
+bump  -bm 0 Onion_Cut_01_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 800.00
+newmtl salad_plate_for_restaurent_ar:mat14
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Material_160_baseColor.jpg
+bump  -bm 0 Material_160_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 400.00
+newmtl salad_plate_for_restaurent_ar:mat16
+illum 4
+Kd 0.00 0.00 0.00
+Ka 1.00 1.00 1.00
+Tf 1.00 1.00 1.00
+map_Kd Material_162_baseColor.jpg
+bump  -bm 0 Material_162_normal.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 400.00
+newmtl salad_plate_for_restaurent_ar:mat18
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.10 0.10 0.10
+Tf 1.00 1.00 1.00
+map_Kd Plate_Design1_baseColor.jpg
+Ni 1.00
+Ks 0.50 0.50 0.50
+Ns 880.00
